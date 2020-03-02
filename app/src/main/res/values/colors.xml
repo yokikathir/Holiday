@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#FFFFFF</color>
+    <color name="colorAccent">#FFFFFF</color>
+    <color name="splashcolor">#000003</color>
+    <color name="bgco">#092289</color>
+    <color name="btncolor">#FFCC00</color>
+    <color name="line_color">#BDBDBD</color>
+    <color name="fynlight">#B5B4B4</color>
+</resources>
